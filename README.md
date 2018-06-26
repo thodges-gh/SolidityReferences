@@ -36,6 +36,7 @@ _Excludes frameworks above which may provide test suites_
 - [Oyente](https://github.com/melonproject/oyente)
 - [Solgraph](https://github.com/raineorshine/solgraph)
 - [SmartCheck](https://tool.smartdec.net/)
+- [Securify](https://securify.ch/)
 
 ### Developer Tools
 
