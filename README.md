@@ -13,6 +13,13 @@
 - [Audit Checklist](https://github.com/cryptofinlabs/audit-checklist)
 - [StackExchange List](https://ethereum.stackexchange.com/a/6221/37908)
 
+### Storage
+
+- [Layout of State Variables in Storage](https://solidity.readthedocs.io/en/latest/miscellaneous.html#layout-of-state-variables-in-storage)
+- [Understanding Ethereum Smart Contract Storage](https://programtheblockchain.com/posts/2018/03/09/understanding-ethereum-smart-contract-storage/)
+- [A (Practical) Walkthrough of Smart Contract Storage](https://medium.com/coinmonks/a-practical-walkthrough-smart-contract-storage-d3383360ea1b)
+- [How to read Ethereum contract storage](https://medium.com/aigang-network/how-to-read-ethereum-contract-storage-44252c8af925)
+
 ### Frameworks
 
 - [OpenZeppelin](https://github.com/OpenZeppelin/openzeppelin-solidity)
