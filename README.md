@@ -9,6 +9,7 @@
 
 ### Security
 
+- [Ethereum Safety](https://github.com/ethereum/wiki/wiki/Safety)
 - [Consensys Best Practices](https://consensys.github.io/smart-contract-best-practices/)
 - [Known Attacks](https://blog.sigmaprime.io/solidity-security.html)
 - [Audit Checklist](https://github.com/cryptofinlabs/audit-checklist)
