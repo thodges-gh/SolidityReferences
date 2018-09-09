@@ -65,3 +65,9 @@ _Excludes frameworks above which may provide test suites_
 - [Solcheck](https://github.com/federicobond/solcheck)
 - [Solint](https://github.com/SilentCicero/solint)
 - [Solhint](https://github.com/protofire/solhint)
+
+### Challenges
+
+- [Ethernaut](https://ethernaut.zeppelin.solutions/)
+- [Capture the Ether](https://capturetheether.com/)
+- [ChainShot](https://www.chainshot.com/start)
