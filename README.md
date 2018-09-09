@@ -5,6 +5,7 @@
 - [Official Documentation](https://solidity.readthedocs.io/en/latest/)
 - [Learn X in Y Solidity](https://learnxinyminutes.com/docs/solidity/)
 - [Patterns](https://fravoll.github.io/solidity-patterns/)
+- [Program the Blockchain](https://programtheblockchain.com/posts/)
 
 ### Security
 
