@@ -51,6 +51,8 @@ _Excludes frameworks above which may provide test suites_
 
 - [Remix](https://remix.ethereum.org/)
 - [EthFiddle](https://ethfiddle.com/)
+- [Pragma](https://www.withpragma.com/editor)
+- [Superblocks](https://lab.superblocks.com/)
 - [Solidity REPL](https://github.com/raineorshine/solidity-repl)
 
 ### Misc Tools
